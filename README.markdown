@@ -5,7 +5,7 @@
 
  Clone Project
  
- `sbt new knoldus/lagom-mysql-poc.g8`
+ `sbt new charmygarg/lagom-mysql-poc.g8`
  
  `cd lagom-mysql-poc`
  
